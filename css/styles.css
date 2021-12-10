@@ -1,0 +1,92 @@
+body{
+    background-color:grey;
+}
+#placecontainer {
+    background-color:burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    box-shadow: darkgray 12px 12px 10px;
+    ;
+    
+}
+#placecontainer>#div{
+    background-color: cadetblue;
+}
+header{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 0.2em;
+    border-radius: 0.5em;
+    box-shadow: black 12px 12px 10px;
+}
+nav{
+    font-size: 1.25em;
+    margin-top: 1cm;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: chocolate;
+    background-color:grey;
+}
+nav ul{
+    padding: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+nav li{
+    background-color: black;
+    list-style-type: none;
+    border-radius: 2em;
+    margin: 0.3em;
+    padding: 0.4em;
+}
+#homecontainer{
+    background-color: burlywood;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 14px;
+}
+#bookcontainer{
+    border-radius: 12px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blanchedalmond;
+}
+#foodcontainer{
+    border-radius: 12px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blanchedalmond;
+}
+#aboutmecontainer{
+    text-align: center;
+    background-color: burlywood;
+    font-size: xx-large;
+}
+#aboutmecontainer{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: large;
+}
+footer{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+img{
+    max-width: 100%;
+}
